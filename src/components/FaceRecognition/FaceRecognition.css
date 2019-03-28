@@ -1,0 +1,43 @@
+.body-facerecognition{
+  margin-top: 4rem;
+}
+
+.body-facerecognition-img{
+  display: inline-block;
+  width: auto;
+  position: relative;
+  margin-left: 20px;
+}
+
+.bounding_box{
+  color: #fff;
+  position: absolute;
+  box-shadow: inset 0 0 0 3px #149df2;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.body-facerecognition-info{
+  width: 50%;
+  color: rgb(194, 194, 194);
+  display: inline-block;
+  position: relative;
+}
+
+.body-center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.key{
+  line-height: 2;
+  font-size: 3rem;
+}
+.value{
+  font-size: 2.8rem;
+  text-transform: capitalize;
+}

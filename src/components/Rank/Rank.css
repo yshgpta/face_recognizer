@@ -1,0 +1,19 @@
+.rank{
+  color: rgb(41, 226, 255);
+  font-size: 3.5rem;
+  display: inline-block;
+  transform: translateX(120%);
+  font-family: 'Roboto', sans-serif;
+}
+
+.rank-welcome{
+  font-weight: 100;
+}
+
+.rank-name{
+  font-weight: 400;
+}
+
+.rank-count{
+  font-weight: 100;
+}

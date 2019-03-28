@@ -1,0 +1,11 @@
+.nav-item{
+  color:rgb(184, 184, 184);
+  cursor: pointer;
+  margin: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}
+.nav-item:hover{
+  color: #fff;
+  transform: scale(1.1);
+}

@@ -1,0 +1,42 @@
+.body-imagelinkform{
+  color: rgb(61, 255, 181);
+  font-family: 'Roboto', sans-serif;
+}
+
+.input-header{
+  font-size: 4rem;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.input-image{
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid rgb(84, 240, 0);
+  width: 50rem;
+  padding: 8px;
+}
+
+::placeholder{
+  color: rgb(158, 158, 158);
+  font-size: 2rem;
+}
+
+.input-image:hover{
+  background: #000;
+  border: 1px solid #fff;
+}
+
+.btn-detect{
+  background: rgb(240, 24, 0);
+  border: 0;
+  padding: 8px 25px;
+  font-size: 2rem;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.btn-detect:hover{
+  transform: scale(1.1);
+}

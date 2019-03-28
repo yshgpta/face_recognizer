@@ -1,0 +1,62 @@
+.signin-body{
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+}
+
+.signin-main-body{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,30% );
+  width: 35%;
+}
+
+.signin-header{
+  text-align: center;
+  font-weight: 200;
+  font-size: 5rem;
+  color: rgb(41, 226, 255);
+}
+
+.text{
+  font-size: 3rem;
+  color: rgb(61, 255, 181);
+  font-weight: 300;
+}
+
+.input-box{
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgb(66, 255, 107);
+  width: 100%;
+  padding: 12px;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 250;
+}
+
+::placeholder{
+  color: rgb(181, 181, 181);
+  font-weight: 200;
+}
+
+.signin-btn{
+  color: #fff;
+  border-radius: 15px;
+  background: transparent;
+  border: 1px solid #fff;
+  font-size: 2.2rem;
+  padding: 5px 20px;
+  font-weight: 200;
+}
+
+.signin-btn:hover{
+  transform: scale(1.1);
+}
+
+.register-btn{
+  color: #fff;
+  font-weight: 200;
+  cursor: pointer;
+  margin-top: 1.5rem;
+}
