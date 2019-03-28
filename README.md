@@ -12,5 +12,5 @@ Following is the overview of the app...
 # Registration Page
 ![](main2.png)
 #
-#Cover Page
+# Cover Page
 ![](main3.png)
