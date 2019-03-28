@@ -5,7 +5,6 @@ To use this app you first have to register yourself and then you can sign-in eas
 I have used the Clarify Api for face detection which uses the machine learning algorithm to provide us the predicted information.</br>
 #
 Following is the overview of the app...
-#
 # SignIn Page
 ![](main1.png)
 #
