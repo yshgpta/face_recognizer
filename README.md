@@ -6,8 +6,11 @@ I have used the Clarify Api for face detection which uses the machine learning a
 #
 Following is the overview of the app...
 #
+# SignIp Page
 ![](main1.png)
 #
+# Registration Page
 ![](main2.png)
 #
+#Cover Page
 ![](main3.png)
